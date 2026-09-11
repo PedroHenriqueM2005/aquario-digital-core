@@ -37,13 +37,13 @@ O **aquário digital core** é o módulo central e motor backend responsável pe
 
 ### passos para instalação
 
-1. **Clone o repositório:**
+##Clone o repositório:
    ```bash
    git clone [https://github.com/PedroHenriqueM2005/aquario-digital-core.git](https://github.com/PedroHenriqueM2005/aquario-digital-core.git)
    cd aquario-digital-core
 
 
-   2. # verificar estar na main
+   ## verificar estar na main
 git checkout main
 
 # Crie e envie a branch de homologação (stage)
@@ -54,7 +54,7 @@ git push origin stage
 git checkout -b develop
 git push origin develop
 
-3. # Crie a branch da nova funcionalidade
+ ##Crie a branch da nova funcionalidade
 git checkout -b feature/controle-qualidade
 
 # Para compilar o arquivo Java
