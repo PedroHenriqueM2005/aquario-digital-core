@@ -1,1 +1,44 @@
 # aquario-digital-core
+
+<img width="1376" height="768" alt="Gemini_Generated_Image_c5xew9c5xew9c5xe" src="https://github.com/user-attachments/assets/2fa97559-8829-496d-8686-5b8200c46dac" />
+
+
+
+O **Aquário Digital Core** é o módulo central e motor backend responsável pelo gerenciamento, monitoramento e processamento de dados para o sistema de aquários inteligentes. O projeto tem como objetivo automatizar o controle de ecossistemas aquáticos através de IoT e análise de dados em tempo real.
+
+---
+
+##  Funcionalidades Principais
+
+-  **Monitoramento de Parâmetros:** Leitura em tempo real de temperatura, pH, nível de água e qualidade.
+-  **Automação de Dispositivos:** Controle automatizado de iluminação, alimentadores e filtros.
+-  **Sistema de Alertas:** Notificações instantâneas para variações anômalas dos parâmetros do aquário.
+-  **Histórico e Relatórios:** Armazenamento e análise de métricas para acompanhamento da saúde da fauna/flora.
+-  **API RESTful / WebSockets:** Comunicação eficiente entre hardware (microcontroladores) e interfaces de usuário.
+
+---
+
+##  Tecnologias Utilizadas
+
+- **Linguagem Principal:** Node.js / TypeScript *(ou Python/Java, ajuste conforme necessário)*
+- **Framework:** Express / NestJS
+- **Banco de Dados:** PostgreSQL / MongoDB
+- **Comunicação IoT:** MQTT / WebSockets
+- **Containerização:** Docker & Docker Compose
+
+---
+
+## Como Executar
+
+### Pré-requisitos
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (versão LTS recomendada)
+- [Docker](https://www.docker.com/) (opcional, para ambiente containerizado)
+
+### Passos para Instalação
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/PedroHenriqueM2005/aquario-digital-core.git](https://github.com/PedroHenriqueM2005/aquario-digital-core.git)
+   cd aquario-digital-core
