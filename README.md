@@ -41,3 +41,28 @@ O **aquário digital core** é o módulo central e motor backend responsável pe
    ```bash
    git clone [https://github.com/PedroHenriqueM2005/aquario-digital-core.git](https://github.com/PedroHenriqueM2005/aquario-digital-core.git)
    cd aquario-digital-core
+
+
+   2. # verificar estar na main
+git checkout main
+
+# Crie e envie a branch de homologação (stage)
+git checkout -b stage
+git push origin stage
+
+# Crie e envie a branch de desenvolvimento (develop)
+git checkout -b develop
+git push origin develop
+
+3. # Crie a branch da nova funcionalidade
+git checkout -b feature/controle-qualidade
+
+# Para compilar o arquivo Java
+javac ControleQualidadeAgua.java
+
+# Para executar o programa (caso tenha uma classe principal/main)
+java ControleQualidadeAgua
+
+git add .
+git commit -m "feat: implementa modulo de monitoramento da qualidade da agua"
+git push origin feature/controle-qualidade
