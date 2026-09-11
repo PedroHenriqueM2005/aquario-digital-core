@@ -20,7 +20,7 @@ O **aquário digital core** é o módulo central e motor backend responsável pe
 
 ##  tecnologias usadas
 
-- **Linguagem Principal:** Node.js / TypeScript *(ou Python/Java, ajuste conforme necessário)*
+- **Linguagem Principal:**  (Python/Java)
 - **Framework:** Express / NestJS
 - **Banco de Dados:** PostgreSQL / MongoDB
 - **Comunicação IoT:** MQTT / WebSockets
