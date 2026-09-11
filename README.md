@@ -4,7 +4,7 @@
 
 
 
-O **Aquário Digital Core** é o módulo central e motor backend responsável pelo gerenciamento, monitoramento e processamento de dados para o sistema de aquários inteligentes. O projeto tem como objetivo automatizar o controle de ecossistemas aquáticos através de IoT e análise de dados em tempo real.
+O **aquário digital core** é o módulo central e motor backend responsável pelo gerenciamento, monitoramento e processamento de dados para o sistema de aquários inteligentes. O projeto tem como objetivo automatizar o controle de ecossistemas aquáticos através de IoT e análise de dados em tempo real.
 
 ---
 
@@ -18,7 +18,7 @@ O **Aquário Digital Core** é o módulo central e motor backend responsável pe
 
 ---
 
-##  Tecnologias Utilizadas
+##  tecnologias usadas
 
 - **Linguagem Principal:** Node.js / TypeScript *(ou Python/Java, ajuste conforme necessário)*
 - **Framework:** Express / NestJS
@@ -28,15 +28,14 @@ O **Aquário Digital Core** é o módulo central e motor backend responsável pe
 
 ---
 
-## Como Executar
+## como executar
 
 ### Pré-requisitos
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
-- [Docker](https://www.docker.com/) (opcional, para ambiente containerizado)
+- [Node.js](https://nodejs.org/)
 
-### Passos para Instalação
+### passos para instalação
 
 1. **Clone o repositório:**
    ```bash
