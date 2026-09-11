@@ -1,4 +1,4 @@
-# aquario-digital-core
+                                                         ## aquario-digital-core
 
 <img width="1376" height="768" alt="Gemini_Generated_Image_c5xew9c5xew9c5xe" src="https://github.com/user-attachments/assets/2fa97559-8829-496d-8686-5b8200c46dac" />
 
