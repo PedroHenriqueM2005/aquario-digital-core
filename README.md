@@ -1,8 +1,8 @@
-## aquario-digital-core
+
 
 <img width="1376" height="768" alt="Gemini_Generated_Image_c5xew9c5xew9c5xe" src="https://github.com/user-attachments/assets/2fa97559-8829-496d-8686-5b8200c46dac" />
 
-
+## aquario-digital-core
 
 O **aquário digital core** é o módulo central e motor backend responsável pelo gerenciamento, monitoramento e processamento de dados para o sistema de aquários inteligentes. O projeto tem como objetivo automatizar o controle de ecossistemas aquáticos através de IoT e análise de dados em tempo real.
 
